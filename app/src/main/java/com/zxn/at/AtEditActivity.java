@@ -6,9 +6,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.util.Log;
-import android.widget.Button;
 
 import com.example.administrator.test.R;
+import com.zxn.zatlib.AtEditText;
 
 import org.greenrobot.eventbus.EventBus;
 import org.greenrobot.eventbus.Subscribe;
