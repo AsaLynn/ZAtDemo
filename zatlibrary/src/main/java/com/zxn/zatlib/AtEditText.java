@@ -25,7 +25,7 @@ import java.util.Map;
 /**
  * Created by zxn on 2018/9/19.
  */
-public class AtEditText extends AppCompatEditText implements InputFilter/*, TextWatcher*/ {
+public class AtEditText extends AppCompatEditText implements InputFilter {
 
     private OnInputAtListener mOnInputAtListener;
     private String mAtName = "";
